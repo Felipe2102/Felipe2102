@@ -1,8 +1,8 @@
 # :man_technologist: FelipeRibeiro
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/Felipe2102)
-[![X](https://img.shields.io/twitter/url?url=x.com%2Fkuroki9224)]
-
+[![Github Badge](https://https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fkuroki9224img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Felipe2102)](https://github.com/Felipe2102)
+[![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fkuroki9224)](https://x.com/kuroki9224)
+https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fkuroki9224
 ## Olá!
 
 Meu nome é Felipe Ribeiro , Sou um estudante de programação.
