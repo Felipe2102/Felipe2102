@@ -1,7 +1,7 @@
 # :man_technologist: FelipeRibeiro
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/Felipe2102)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Blue_Felipe21)](https://twitter.com/Blue_Felipe21)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=x.com%2Fkuroki9224)
 
 ## Olá!
 
